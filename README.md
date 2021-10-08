@@ -1,0 +1,2 @@
+# VBA_DIVIDE_WOID
+使用VBA编写的针对WOID的分割程序
